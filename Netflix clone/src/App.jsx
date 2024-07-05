@@ -1,11 +1,6 @@
+import Body from "./components/Body";
 function App() {
-  return (
-    <div>
-      <p className="font-bold text-xl">
-        This is NETFIX GPT project By Akshay sir
-      </p>
-    </div>
-  );
+  return <Body></Body>;
 }
 
 export default App;
