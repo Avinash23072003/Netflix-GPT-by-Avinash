@@ -10,6 +10,13 @@ Currently, two official plugins are available:
 # NETFLIX GPT
 
 1. Installation and setup for vite
+2. Made login form /Sign In form
+3. Email-password checking
+4. Authentication
+5. Firebase setup
+6. Sign in /sign up
+7. Build store for keep actions in store using redux
+8. Create option there Sign Out option
 
 # Features
 
