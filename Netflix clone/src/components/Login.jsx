@@ -57,13 +57,13 @@ const Login = () => {
                   photoURL: photoURL,
                 })
               );
-              navigate("/browse");
+              // navigate("/browse");
             })
             .catch((error) => {
               setErrorMessage(errorMessage);
             });
           console.log(user);
-          navigate("/browse");
+          //  navigate("/browse");
           // ...
         })
         .catch((error) => {
