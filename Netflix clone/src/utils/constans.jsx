@@ -8,3 +8,4 @@ export const API_CALL = {
       "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4NTBiODc3YWMyMWZjZGZlZmJhZGNkZjZlN2VkYjYxZSIsIm5iZiI6MTcyMDQ1OTM4My4yMzMxMSwic3ViIjoiNjY4YzFhM2VjMDMwMzYzYjliNjY0MDgyIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.tgsuZ-xcjKz2HM2QbEjPpjH_ZaOuZAGREZAlI00wHDQ",
   },
 };
+export const MOVIE_CDN_URL = "https://image.tmdb.org/t/p/w200/";
